@@ -1,11 +1,4 @@
----
-title: 苹果官方iOS入门教程译版之第三章：Learn the Essentials of Swift
-date: 2016-08-08 09:16:00
-toc: true
-categories: Swift
-tags: Swift
-description: <p>这章会带你熟悉用来写应用的工具－－Xcode。你将会熟悉Xcode中的项目结构，学会如何在导航之间跳转以及学会使用基本的项目组件。这一整章中，你将会开始为FoodTracker应用创建一个简单的用户接界面（UI,user interface），并且让它在模拟器中显示出来。</p>
----
+# 第三章： 构建基础的用户界面
 这章会带你熟悉用来写应用的工具－－Xcode。你将会熟悉Xcode中的项目结构，学会如何在导航之间跳转以及学会使用基本的项目组件。这一整章中，你将会开始为FoodTracker应用创建一个简单的用户接界面（UI,user interface），并且让它在模拟器中显示出来。当你完成这些之后，你的应用（app）将会像下面这样：  
 ![result_UI](https://calvin92.gitbooks.io/apple-ios-swift-start/content/images/Build-a-Basic-UI/2_sim_finalUI_2x.png)  
 
